@@ -41,7 +41,7 @@
 		"@fauxjs/faux.js": "^0.1.5",
 		"frappe-charts": "^1.6.2",
 		"fuse.js": "^6.6.2",
-		"mermaid": "^9.3.0",
+		"mermaid": "^10.3.1",
 		"svelte-frappe-charts": "^1.10.0",
 		"svelte-highlight": "^7.1.2",
 		"svelte-icons": "^2.1.0"
